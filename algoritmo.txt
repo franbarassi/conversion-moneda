@@ -1,0 +1,6 @@
+ALGORITMO:
+1. Definir el valor actual del Euro y Dolar con respecto al Peso Mexicano
+2. Solicitar al usuario el tipo de conversión (Euro a Mex o Dólar a Mex)
+3. Solicitar al usuario el monto a convertir
+4. Realizar la conversión utilizando el tipo de cambio correspondiente
+5. Mostrar el resultado de la conversión al usuario
